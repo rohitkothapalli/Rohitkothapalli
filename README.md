@@ -8,3 +8,16 @@
 </p>
 
 - [x] 📩 How to reach me: [rohitkothapalli222@gmail.com](rohitkothapalli222@gmail.com)
+
+<a href="https://www.linkedin.com/in/rohit-kothapalli-079719194/">
+  <img align="left" alt="LInkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=rohitkothapalli&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 🗂️ Highlight Projects
+<a href="https://github.com/rohitkothapalli/weather.intern">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rohitkothapalli&repo=weather.intern&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="3 day weather forecasting web app" />
+</a>
+
