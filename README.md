@@ -13,8 +13,11 @@
   <img align="left" alt="LInkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+## Connect With me here
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rohitkothapalli&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
 ## 🗂️ Highlight Projects
 <a href="https://github.com/rohitkothapalli/weather.intern">
