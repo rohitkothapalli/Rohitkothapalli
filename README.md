@@ -9,14 +9,15 @@
 
 - [x] 📩 How to reach me: [rohitkothapalli222@gmail.com](rohitkothapalli222@gmail.com)
 
-<a href="https://www.linkedin.com/in/rohit-kothapalli-079719194/">
-  <img align="left" alt="LInkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
 
 ## Connect With me here
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rohitkothapalli&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
+<a href="https://www.linkedin.com/in/rohit-kothapalli-079719194/">
+  <img align="left" alt="LInkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+ 
+ 
 
 
 ## 🗂️ Highlight Projects
