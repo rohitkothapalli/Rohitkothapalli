@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=rohitkothapalli&label=PROFILE+VIEWS" alt="rohitkothapalli" /> 
+</p>
 <!--
 **rohitkothapalli/rohitkothapalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
