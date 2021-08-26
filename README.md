@@ -23,7 +23,7 @@
 
 ## 🗂️ Highlight Projects
 <a href="https://github.com/rohitkothapalli/weather.intern">
- A 3 Day Weather Forecast Provider. Trying to Get 7 day forecasting as api supports.
+ A 3 Day Weather Forecast Provider.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rohitkothapalli&repo=weather.intern&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="3 day weather forecasting web app" />
 </a>
 
