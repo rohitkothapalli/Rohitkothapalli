@@ -4,6 +4,13 @@
 </div>
 
 
+
+<a href="https://www.linkedin.com/in/rohit-kothapalli-079719194/">
+  <img align="left" alt="LInkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+ 
+ 
+
 𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕! 
 
 <p align="left"> 
@@ -14,7 +21,7 @@
 
 
 
-
+##### My GitHub Stats.
 
 <p>
   <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=rohitkothapalli&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
@@ -23,16 +30,7 @@
    
    
    
-   
 
-
-## Connect With me here
-
-
-<a href="https://www.linkedin.com/in/rohit-kothapalli-079719194/">
-  <img align="left" alt="LInkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
- 
  
 
 
