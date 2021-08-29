@@ -56,3 +56,9 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
+
+   ## 🔥 Streak stats
+   
+<p align="center">
+  <a href="https://github.com/rohitkothapalli/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="rohitkothapalli streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitkothapalli&theme=monokai-metallian&hide_border=true"/>
