@@ -21,6 +21,32 @@
 
 
 
+
+
+
+
+
+
+## 🗂️ Highlight Projects
+<div>
+<a href="https://github.com/rohitkothapalli/weather.intern">
+ A 7 Day Weather Forecast Provider for the Cities and the location You are in !!!!.
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rohitkothapalli&repo=weather.intern&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="3 day weather forecasting web app" />
+</a>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
 ##### My GitHub Stats.
 <div>
 <p>
@@ -34,13 +60,7 @@
 
  
 
-## 🗂️ Highlight Projects
-<div>
-<a href="https://github.com/rohitkothapalli/weather.intern">
- A 7 Day Weather Forecast Provider for the Cities and the location You are in !!!!.
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rohitkothapalli&repo=weather.intern&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="3 day weather forecasting web app" />
-</a>
-</div>
+
 
 
 ## ⚡ Technologies
