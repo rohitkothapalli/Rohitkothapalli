@@ -16,7 +16,7 @@
   <img align="" alt="LInkedin" width="50px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.hackerrank.com/RA1911030010015">
- <img align="right" alt="HackerRank" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Hackerrank_meaningful_logo.svg/216px-Hackerrank_meaningful_logo.svg.png"/>
+ <img align="" alt="HackerRank" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Hackerrank_meaningful_logo.svg/216px-Hackerrank_meaningful_logo.svg.png"/>
   
  
  
