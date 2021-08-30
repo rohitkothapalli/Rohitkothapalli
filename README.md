@@ -11,18 +11,34 @@
  
  
  
+ 
+ 
+ ## Connect Here
+ 
 <div align = "centre">
+ 
 <a href="https://www.linkedin.com/in/rohit-kothapalli-079719194/">
   <img align="" alt="LInkedin" width="50px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+ 
 <a href="https://www.hackerrank.com/RA1911030010015">
  <img align="" alt="HackerRank" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Hackerrank_meaningful_logo.svg/216px-Hackerrank_meaningful_logo.svg.png"/>
   
+ <a href="https://discord.gg/code">
+  <img align="" alt="RohitKothapalli" width="50px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+ 
+ 
+ <a href="https://www.instagram.com/rohitkothapalli_/">
+  <img align="" alt="RohitKothapalli" width="50px" src="https://raw.githubusercontent.com/gist/jemminger/91c69559f5ce1cc45cecc1f2614325c6/raw/809bb0a961444f293a1e65fa4ead494bd93a77c6/instagram.svg" />
+</a>
  
  
  
  
- 
+ <a href="https://api.whatsapp.com/send?phone=+917569121358&text=Hey%20Rohit">
+  <img align="" alt="RohitKothapalli" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" />
+</a>
  
  
  
