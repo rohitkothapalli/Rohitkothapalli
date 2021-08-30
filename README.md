@@ -1,6 +1,6 @@
 <div align="centre">
 
- # Hi there !!!!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40"> <img src="https://komarev.com/ghpvc/?username=rohitkothapalli&label= WELCOME DEVELOPER NO." alt="rohitkothapalli" /> <img align="right" alt="Animation" src="https://ov12-engine.flamingtext.com/netfu/tmp28000/coollogo_com-91542982.gif"/>
+ # Rohit Welcomes You here <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40"> <img src="https://komarev.com/ghpvc/?username=rohitkothapalli&label= WELCOME DEVELOPER NO." alt="rohitkothapalli" /> <img align="right" alt="Animation" src="https://ov12-engine.flamingtext.com/netfu/tmp28000/coollogo_com-91542982.gif"/>
 </div>
 
 
@@ -8,13 +8,13 @@
 - [x] 📩 How to reach me: [rohitkothapalli222@gmail.com](rohitkothapalli222@gmail.com)
 - [x] Myself Rohit Venkata Naga Bangarraju . I am pursuing my UnderGraduation from SRM University,Kattankulathur.
 - [x] A passionate dev. 
-- [x] Ready to collaborate and contribute to OpenSource.
+- [x] Ready to collaborate and contribute to OpenSource. 🙇‍♂️
  
  
  
  
  
- ## Connect Here
+ ## 💐 Connect Here
  
 <div align = "centre">
  
