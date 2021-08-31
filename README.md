@@ -1,6 +1,6 @@
 <div align="centre">
 
- # Rohit Welcomes You here <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40"> <img src="https://komarev.com/ghpvc/?username=rohitkothapalli&label= WELCOME DEVELOPER NO." alt="rohitkothapalli" /> <img align="right" alt="Animation" src="https://ov12-engine.flamingtext.com/netfu/tmp28000/coollogo_com-91542982.gif"/>
+ # Rohit Welcomes You here <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40"> <img src="https://komarev.com/ghpvc/?username=rohitkothapalli&label= WELCOME DEVELOPER NO." alt="rohitkothapalli" /> 
 </div>
 
 
