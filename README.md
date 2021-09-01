@@ -76,12 +76,6 @@
 </div>
  
  
- <div>
-<a href="https://rohitkothapalli.github.io/">
- 
-  <img align="centre" src="https://github-readme-stats.vercel.app/api/pin/?username=rohitkothapalli&repo=rohitkothapalli.github.io&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Portfolio" />
-</a>
-</div>
 
 
 
