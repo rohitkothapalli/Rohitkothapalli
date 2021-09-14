@@ -7,7 +7,7 @@
 
 - [x] 📩 How to reach me: [rohitkothapalli222@gmail.com](rohitkothapalli222@gmail.com)
 - [x] Myself Rohit Venkata Naga Bangarraju . I am pursuing my UnderGraduation from SRM University,Kattankulathur.
-- [x] A aspiring dev. and cybersecurity enthusiast and  Learning UI/UX.
+- [x] A aspiring dev. and cybersecurity enthusiast and currently learning React<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
 - [x] Ready to collaborate and contribute to OpenSource. 🙇‍♂️
  
  
