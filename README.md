@@ -1,6 +1,6 @@
 <div align="centre">
 
- # Rohit Welcomes You here <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40"> <img src="https://komarev.com/ghpvc/?username=rohitkothapalli&label= WELCOME DEVELOPER NO." alt="rohitkothapalli" /> 
+ # GitHub Welcomes You here <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40"> <img src="https://komarev.com/ghpvc/?username=rohitkothapalli&label= WELCOME DEVELOPER NO." alt="rohitkothapalli" /> 
 </div>
 
 <div>
