@@ -1,18 +1,25 @@
-<div align="centre">
+
+<div align="centre" >
 
  # GitHub Welcomes You here <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40"> <img src="https://komarev.com/ghpvc/?username=rohitkothapalli&label= WELCOME DEVELOPER NO." alt="rohitkothapalli" /> 
 </div>
 
 <div>
-<img src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif" height="600" width="1000"/>
+<img src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif" height="400" width="550"/>
+ <img  align="" src="https://i.pinimg.com/originals/f3/88/ce/f388ce9b7b1951263bff620997ff6735.gif" height="300" width="300"/>
+
  </div>
+ 
+ 
 
 <div align = "left">
 
+ 
 - [x] 📩 How to reach me: [rohitkothapalli222@gmail.com](rohitkothapalli222@gmail.com)
 - [x] Myself Rohit Venkata Naga Bangarraju . I am pursuing my UnderGraduation from SRM University,Kattankulathur.
 - [x] A aspiring dev. and cybersecurity enthusiast and currently learning React<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
 - [x] Ready to collaborate and contribute to OpenSource. 🙇‍♂️
+ <p>&#128151; Trying to implement FullStack web apps in real world </p>
  
  </div>
  
@@ -136,7 +143,7 @@
    </div>
    
    
-   
+
    
 
  
