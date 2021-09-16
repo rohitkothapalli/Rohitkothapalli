@@ -140,7 +140,6 @@
 <p align = "center">
   <img align="center" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=rohitkothapalli&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
  </p>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkothapalli)](https://github.com/rohitkothapalli/github-readme-stats)
 
  </div>
  
