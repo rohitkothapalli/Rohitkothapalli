@@ -104,7 +104,7 @@
  <div>
   <code>
    
-  <span>
+  <span style="cursor : crosshair">
    <b>I will update soon </b>
    </span>
    </code>
