@@ -1,7 +1,8 @@
 
 <div align="centre" >
 
- # GitHub Welcomes You here <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40"> <img src="https://komarev.com/ghpvc/?username=rohitkothapalli&label=DEVELOPER NO." alt="rohitkothapalli" /> 
+ # GitHub Welcomes You here <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40"> <img src="https://komarev.com/ghpvc/?username=rohitkothapalli&label=DEVELOPER NO." alt="rohitkothapalli" />     [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)     [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+ 
 </div>
 
 <hr style="height:100px;border-width:0;color:white;background-color:white">
@@ -101,7 +102,22 @@
 
 ## ⚡ Technologies
  <div>
-  <code>Updating Soon</code>
+  <code>
+   
+   [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
+   [![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg)
+   [![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
+   [![git](https://img.shields.io/badge/--F05032?logo=git&logoColor=ffffff)](http://git-scm.com/)
+   [![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/)
+   [![Visual Studio](https://img.shields.io/badge/--6C33AF?logo=visual%20studio)](https://visualstudio.microsoft.com/)
+   [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
+   [![Figma](https://img.shields.io/badge/--F24E1E?logo=figma&logoColor=ffffff)](https://www.figma.com/)
+[![Photoshop](https://img.shields.io/badge/--31A8FF?logo=adobe%20photoshop&logoColor=000)](https://www.photoshop.com/)
+[![GitLab](https://badgen.net/badge/icon/gitlab?icon=gitlab&label)](https://https://gitlab.com/)
+   
+
+   </code>
+  
  </div>
  
  
@@ -112,18 +128,6 @@
 
 <hr>
 
- 
- # 💻 Languages used stats.
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkothapalli)](https://github.com/rohitkothapalli/github-readme-stats)
- 
- 
- 
- 
- <hr>
-
-
-
 
 
 
@@ -133,26 +137,29 @@
 
 
 ## My GitHub Stats. and 🔥 Streak stats
-<div>
+<div align ="center" >
  
-<p align = "center">
-  <img align="center" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=rohitkothapalli&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
- </p>
+ [![github stats](https://github-readme-stats.vercel.app/api?username=rohitkothapalli&theme=blue-green)](https://github.com/rohitkothapalli/github-readme-stats)
 
  </div>
  
- <div>
- <p align = "center">
- <a href="https://github.com/rohitkothapalli/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="rohitkothapalli streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitkothapalli&theme=monokai-metallian&hide_border=true"/>
-  <p>
+ <div align="center">
+  
+  
+ [![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkothapalli&theme=blue-green)](https://github.com/rohitkothapalli/github-readme-stats)
    
    
    </div>
-   
+ <div align = "center">
+  
+  [![github streak](https://github-readme-streak-stats.herokuapp.com/?user=rohitkothapalli&theme=blue-green)](https://github.com//github-readme-streak-stats)
+ </div>
+ 
+
    
 
    
+  
 
  <hr>
 
