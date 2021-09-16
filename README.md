@@ -1,9 +1,12 @@
 
 <div align="centre" >
 
- # GitHub Welcomes You here <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40"> <img src="https://komarev.com/ghpvc/?username=rohitkothapalli&label=DEVELOPER NO." alt="rohitkothapalli" />     [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)     [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/rohitkothapalli/open-source-badges/)
+ #  Welcome Folks <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/partying-face_1f973.png" width="50" alt="rohitkothapalli"/> <img src="https://komarev.com/ghpvc/?username=rohitkothapalli&label=DEVELOPER NO." alt="rohitkothapalli" />     [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)     [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/rohitkothapalli/open-source-badges/)
  
+ <hr>
+ <h3> Please do some support &#128151; by starring this Repository   <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/growing-heart_1f497.png" height="40"/> <h3>
 </div>
+
 
 <hr style="height:100px;border-width:0;color:white;background-color:white">
 
@@ -26,7 +29,7 @@
  
  
  
- ## 💐 Connect Here
+ ## 💐 Connect Here <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/handshake_1f91d.png" width="50"  alt="rohitkothapalli" />
 <div align = "centre">
  
 <a href="https://www.linkedin.com/in/rohit-kothapalli-079719194/">
