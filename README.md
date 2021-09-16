@@ -14,8 +14,6 @@
 
 <div align = "left">
 
-  
- <p> &#128151; 📩 How to reach me: [rohitkothapalli222@gmail.com](rohitkothapalli222@gmail.com) </p> <br/>
 <p> &#128151; Myself Rohit Venkata Naga Bangarraju . I am pursuing my UnderGraduation from SRM University,Kattankulathur. </p> <br/>
 <p> &#128151; A aspiring dev. and cybersecurity enthusiast and currently learning React<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> , Full stack and Competitive programming </>
  <p> &#128151; Ready to collaborate and contribute to OpenSource. 🙇‍ </p>  <br/>
