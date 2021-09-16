@@ -5,6 +5,9 @@
  
  <hr>
  <h3> Please do some support &#128151; by starring this Repository   <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/growing-heart_1f497.png" height="40"/> <h3>
+  <hr>
+  WebDeveloper cheatsheets for life 😲 <a href="https://www.thinkful.com/" alt="_blank">Click Here</a>
+  <hr>
 </div>
 
 
