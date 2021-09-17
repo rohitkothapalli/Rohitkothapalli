@@ -4,7 +4,7 @@
  #  Welcome Folks <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/partying-face_1f973.png" width="50" alt="rohitkothapalli"/> <img src="https://komarev.com/ghpvc/?username=rohitkothapalli&label=DEVELOPER NO." alt="rohitkothapalli" />     [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://l.mit-license.org/)     [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/rohitkothapalli/open-source-badges/)
  
  <hr>
- <h3> Please do some support &#128151; by starring this Repository   <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/growing-heart_1f497.png" height="40"/> <h3>
+ <kbd> Please do some support &#128151; by starring some repositories</kbd> <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/growing-heart_1f497.png" height="40"/> 
 </div>
 
 
@@ -162,7 +162,7 @@
    Made with  &#128151; by <a href="https://github.com/rohitkothapalli" >RohitKothapalli </a> 
   </p>
  <p align="right">
-  &copy Copy Rights Issued 2021
+  <kbd>&copy Copy Rights Issued 2021</kbd>
  </p>
 
 
