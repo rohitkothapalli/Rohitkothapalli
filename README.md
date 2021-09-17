@@ -161,6 +161,9 @@
   <p>
    Made with  &#128151; by <a href="https://github.com/rohitkothapalli" >RohitKothapalli </a> 
   </p>
+ <p align="right">
+  &copy Copy Rights Issued 2021
+ </p>
 
 
 <hr>
