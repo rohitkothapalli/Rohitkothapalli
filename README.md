@@ -10,9 +10,7 @@
 
 <hr style="height:100px;border-width:0;color:white;background-color:white">
 
-<div>
-<img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" height="500" width="1000"/>
- </div>
+
  
  <hr style="height:100px;border-width:0;color:white;background-color:white">
 
