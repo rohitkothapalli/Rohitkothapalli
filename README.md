@@ -5,14 +5,11 @@
  
  <hr>
  
-</div>
-
-
-<hr style="height:100px;border-width:0;color:white;background-color:white">
-
 
  
- <hr style="height:100px;border-width:0;color:white;background-color:white">
+ 
+</div>
+
 
 <div align = "left">
 
