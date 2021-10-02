@@ -1,9 +1,9 @@
 
 <div align="centre" >
 
- #  Welcome Folks <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/partying-face_1f973.png" width="50" alt="rohitkothapalli"/> <img src="https://komarev.com/ghpvc/?username=rohitkothapalli&label=DEVELOPER NO." alt="rohitkothapalli" />     [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://l.mit-license.org/)     [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/rohitkothapalli/open-source-badges/)
+ #  Welcome Folks <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/partying-face_1f973.png" width="50" alt="rohitkothapalli"/> <img src="https://komarev.com/ghpvc/?username=rohitkothapalli&label=DEVELOPER NO." alt="rohitkothapalli" />     [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://l.mit-license.org/)     [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/rohitkothapalli/open-source-badges/)![]
  
- <hr>
+ 
  
 
  
@@ -19,7 +19,7 @@
  <p>&#128151; Trying to implement FullStack web apps in real world </p>
  
  </div>
- <hr>
+
  
  
  
@@ -58,7 +58,7 @@
  
  
  
- <hr>
+
  
  
  
@@ -93,7 +93,6 @@
 
 
 
- <hr>
  
  
  
@@ -119,7 +118,7 @@
 
 
 
-<hr>
+
 
 
 
@@ -130,6 +129,8 @@
 
 
 ## My GitHub Stats. and 🔥 Streak stats
+ <details>
+  <summary>Click Here </summary>
 <div align ="center" >
  
  [![github stats](https://github-readme-stats.vercel.app/api?username=rohitkothapalli&theme=blue-green)](https://github.com/rohitkothapalli/github-readme-stats)
@@ -147,6 +148,8 @@
   
   [![github streak](https://github-readme-streak-stats.herokuapp.com/?user=rohitkothapalli&theme=blue-green)](https://github.com//github-readme-streak-stats)
  </div>
+ </details>
+ 
  
 
    
@@ -154,7 +157,7 @@
    
   
 
- <hr>
+ 
 
 
   <p>
@@ -162,10 +165,11 @@
   </p>
  <p align="right">
   <kbd>&copy Copy Rights Issued 2021</kbd>
+  
  </p>
 
 
-<hr>
+
 
   
  
