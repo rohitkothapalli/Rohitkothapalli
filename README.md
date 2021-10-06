@@ -3,13 +3,16 @@
 
  #  Welcome Folks <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/partying-face_1f973.png" width="50" alt="rohitkothapalli"/> <img src="https://komarev.com/ghpvc/?username=rohitkothapalli&label=DEVELOPER NO." alt="rohitkothapalli" />     [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://l.mit-license.org/)     [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/rohitkothapalli/open-source-badges/)
  
+ [![GitHub followers](https://img.shields.io/github/followers/rohitkothapalli.svg?style=social&label=Followers)](https://github.com/rohitkothapalli?tab=followers)
  
+
  
 
  
  
 </div>
 
+<code>
 
 <div align = "left">
 
@@ -19,7 +22,7 @@
  <p>&#128151; Trying to implement FullStack web apps in real world </p>
  
  </div>
-
+</code>
  
  
  
@@ -63,38 +66,12 @@
  
  
  
- 
- 
- 
+
  
  
  
  
  </div>
- 
- 
- 
-
- 
- ## 🗂️ Highlight Projects
-<div>
-<a href="https://github.com/rohitkothapalli/weather-forecast">
- 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rohitkothapalli&repo=weather-forecast&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="3 day weather forecasting web app" />
-</a>
-</div>
- 
- 
-
-
-
- 
-
-
-
-
- 
- 
  
  
 
@@ -158,13 +135,13 @@
  
 
 
-  <p>
-   Made with  &#128151; by <a href="https://github.com/rohitkothapalli" >RohitKothapalli </a> 
-  </p>
+
  <p align="right">
   <kbd>&copy Copy Rights Issued 2021</kbd>
   
  </p>
+ 
+ <p> Feel free to Open PR's </p>
 
 
 
