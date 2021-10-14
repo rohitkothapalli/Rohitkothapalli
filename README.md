@@ -127,10 +127,11 @@
  
  
 
-   
+   <div>
 
    
-  
+  ![Rohit's github activity graph](https://activity-graph.herokuapp.com/graph?username=rohitkothapalli&theme=react-dark&hide_border=true&area=true)
+ </div>
 
  
 
