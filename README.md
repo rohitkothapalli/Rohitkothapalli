@@ -1,7 +1,7 @@
 
 <div align="centre" >
 
- #  Welcome Folks <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/partying-face_1f973.png" width="50" alt="rohitkothapalli"/> <img src="https://komarev.com/ghpvc/?username=rohitkothapalli&label=DEVELOPER NO." alt="rohitkothapalli" />     [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://l.mit-license.org/)     [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/rohitkothapalli/open-source-badges/)
+ #  <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/partying-face_1f973.png" width="50" alt="rohitkothapalli"/> <img src="https://komarev.com/ghpvc/?username=rohitkothapalli&label=DEVELOPER NO." alt="rohitkothapalli" />     [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://l.mit-license.org/)     [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/rohitkothapalli/open-source-badges/)
  
  [![GitHub followers](https://img.shields.io/github/followers/rohitkothapalli.svg?style=social&label=Followers)](https://github.com/rohitkothapalli?tab=followers)
  
