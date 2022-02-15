@@ -12,7 +12,7 @@
  
 </div>
 
-<code>
+
 
 <div align = "left">
 
@@ -22,7 +22,7 @@
  <p>&#128151; Trying to implement FullStack web apps in real world </p>
  
  </div>
-</code>
+
  
  
  
