@@ -16,10 +16,10 @@
 
 <div align = "left">
 
-<p> &#128151; Myself Rohit Venkata Naga Bangarraju . I am pursuing my UnderGraduation from SRM University,Kattankulathur. </p> <br/>
-<p> &#128151; A aspiring dev. and cybersecurity enthusiast and currently learning PenTesting,and Competitive programming </>
+<p> &#128151; I am Rohit Venkata Naga Bangarraju . I am pursuing my UnderGraduation from SRM University,Kattankulathur. </p>
+<p> &#128151; A aspiring dev. and cybersecurity enthusiast and currently learning </>
  <p> &#128151; Ready to collaborate and contribute to OpenSource. 🙇‍ </p>  <br/>
- <p>&#128151; Trying to implement FullStack web apps in real world </p>
+
  
  </div>
 
@@ -73,72 +73,11 @@
  
  </div>
  
- 
-
-## ⚡ Technologies and Skills 👍
- <div>
-  <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"  width="40" height="40" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg"  width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg"  width="40" height="40" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"  width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"  width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"  width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"  width="40" height="40"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"   width="40" height="40" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"  width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" width="40" height="40" />
-   
-  
- 
-   
- </div>
- 
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## My GitHub Stats. and 🔥 Streak stats
- 
-<div align ="center" >
- 
- [![github stats](https://github-readme-stats.vercel.app/api?username=rohitkothapalli&theme=blue-green)](https://github.com/rohitkothapalli/github-readme-stats)
-
- </div>
- 
- <div align="center">
-  
-  
- [![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkothapalli&theme=blue-green)](https://github.com/rohitkothapalli/github-readme-stats)
-   
-   
-   </div>
- <div align = "center">
-  
-  [![github streak](https://github-readme-streak-stats.herokuapp.com/?user=rohitkothapalli&theme=blue-green)](https://github.com//github-readme-streak-stats)
- </div>
- 
- 
-
-   <div>
-
-   
-  ![Rohit's github activity graph](https://activity-graph.herokuapp.com/graph?username=rohitkothapalli&theme=react-dark&hide_border=true&area=true)
- </div>
-
- 
 
 
 
  <p align="right">
-  <kbd>&copy Copy Rights Issued 2021</kbd>
+  <kbd>&copy Copy Rights Issued 2022</kbd>
   
  </p>
  
