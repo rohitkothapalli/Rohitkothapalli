@@ -18,7 +18,7 @@
 
 <p> &#128151; I am Rohit Venkata Naga Bangarraju . I am pursuing my UnderGraduation from SRM University,Kattankulathur. </p>
 <p> &#128151; A aspiring dev. and cybersecurity enthusiast and currently learning </>
- <p> &#128151; Ready to collaborate and contribute to OpenSource. 🙇‍ </p>  <br/>
+ <p> &#128151; Ready to collaborate and contribute to OpenSource and Software Devlopment 🙇‍ </p>  <br/>
 
  
  </div>
